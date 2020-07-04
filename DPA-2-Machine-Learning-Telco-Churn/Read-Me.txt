@@ -1,0 +1,16 @@
+In here I attached the Machine Learning task given by MBA in IT, University of Moratuwa (2020-06-27)
+This was an individual assignment
+The question given is as follows.
+----------------- QUESTION --------------------------------------
+Build a classifier to predict Customer Churn.
+
+The data and the descriptions can be found here:https://www.kaggle.com/blastchar/telco-customer-churn
+
+Please submit your r code and a one-page report with the confusion matrix (test data) and your discussion on the results.
+
+Submit your answers on or before EOD today.
+-----------------------------------------------------------------
+
+Submited Report - L A C A Sandaruwan [199127B].pdf 
+R File - Customer-churn-prediction-by-199127B.R
+Data set - datasets_13996_18858_WA_Fn-UseC_-Telco-Customer-Churn.csv
